@@ -1,5 +1,6 @@
 # Ex03 Time Table
-## Date:
+## Date:17-04-2025
+## Reg.no:212224220060
 
 ## AIM
 To write a html webpage page to display your slot timetable.
